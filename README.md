@@ -6,8 +6,8 @@ EMito-Metrix plugin was written by Mathieu Vigneau, Emmanuel Doumard and Jean-Ph
 
 The software is available in different versions :
 - [linux](10.5281/zenodo.17049894)
-- [windows]: (10.5281/zenodo.17049893)
-- [macOS]: (10.5281/zenodo.17049887)
+- [windows](10.5281/zenodo.17049893)
+- [macOS](10.5281/zenodo.17049887)
 
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
 
