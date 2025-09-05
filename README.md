@@ -13,3 +13,5 @@ The software is available in different versions :
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
 
 See the [EMitoMetrix Website](https://www.emitometrix.org/index.html) for installation instructions and detailed documentation of the application runnning
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049894)
