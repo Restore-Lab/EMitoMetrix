@@ -6,4 +6,4 @@ EMito-Metrix plugin was written by Mathieu Vigneau, Emmanuel Doumard and Jean-Ph
 
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
 
-See the [EMitoMetrix_Tuto_Installation](https://github.com/Restore-Lab/EMito-Metrix/blob/main/EMitoMetrix_Tuto_Installation.pdf) file for installation instructions and [EMitoMetrix_Tuto_Utilization](https://github.com/Restore-Lab/EMito-Metrix/blob/main/EMitoMetrix_Tuto_Utilization.pdf) file for detailed documentation of the application runnning
+See the [EMitoMetrix Website](https://www.emitometrix.org/index.html) for installation instructions and detailed documentation of the application runnning
