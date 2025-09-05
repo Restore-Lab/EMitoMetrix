@@ -5,9 +5,9 @@ EMito-Metrix is a high-performance pipeline for analyzing mitochondrial morpholo
 EMito-Metrix plugin was written by Mathieu Vigneau, Emmanuel Doumard and Jean-Philippe Pradère from the [RESTORE](https://restore-lab.fr/en/home-en/) Institute.
 
 The software is available in different versions :
-- [linux](10.5281/zenodo.17049894) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049894)
-- [windows](10.5281/zenodo.17049893) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049893.svg)](https://doi.org/10.5281/zenodo.17049893)
-- [macOS](10.5281/zenodo.17049887) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049887.svg)](https://doi.org/10.5281/zenodo.17049887)
+- Linux  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049894)
+- Windows  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049893.svg)](https://doi.org/10.5281/zenodo.17049893)
+- MacOS  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049887.svg)](https://doi.org/10.5281/zenodo.17049887)
 
 
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
