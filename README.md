@@ -4,11 +4,13 @@ EMito-Metrix is a high-performance pipeline for analyzing mitochondrial morpholo
 
 EMito-Metrix plugin was written by Mathieu Vigneau, Emmanuel Doumard and Jean-Philippe Pradère from the [RESTORE](https://restore-lab.fr/en/home-en/) Institute.
 
-If you use in your publication results generated from our application, please cite our work as followed : “EMito-Metrix enables automated evaluation of mitochondria morphology across species” Morin E, Doumard E et al, Nature Metabolism, 2025. // doi10.1038/s42255-025-01400-z
+If you use in your publication results generated from our application, please cite our work as followed: 
+“EMito-Metrix enables automated evaluation of mitochondria morphology across species” Morin E, Doumard E et al, Nature Metabolism, 2025. // doi10.1038/s42255-025-01400-z
 
 Also available at the following [URL](https://www.nature.com/articles/s42255-025-01400-z)
 
 If you use our work be aware about the following license : [EMito-Metrix License – research purposes restricted](https://zenodo.org/records/17064295)
+
 
 The software is available in different versions :
 - Linux  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049894)
