@@ -14,9 +14,9 @@ Also available at the following [URL](https://www.nature.com/articles/s42255-025
 
 
 The software is available in different versions :
-- Linux  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049408)
-- Windows  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049893.svg)](https://doi.org/10.5281/zenodo.17049369)
-- MacOS  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049887.svg)](https://doi.org/10.5281/zenodo.17049408)
+- Linux  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049894.svg)](https://doi.org/10.5281/zenodo.17049894)
+- Windows  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049893.svg)](https://doi.org/10.5281/zenodo.17049893)
+- MacOS  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17049887.svg)](https://doi.org/10.5281/zenodo.17049887)
 
 
 This section describes installation instructions, detailed instructions for API settings and use, and detailed documentation of morphometrics measurement, graphs and conventional data distributions
